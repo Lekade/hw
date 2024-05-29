@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Lekade/hw/static/css/main.073c9b0a.css",
+    "main.js": "/Lekade/hw/static/js/main.7e09642b.js",
+    "static/js/787.177e23c2.chunk.js": "/Lekade/hw/static/js/787.177e23c2.chunk.js",
+    "index.html": "/Lekade/hw/index.html",
+    "main.073c9b0a.css.map": "/Lekade/hw/static/css/main.073c9b0a.css.map",
+    "main.7e09642b.js.map": "/Lekade/hw/static/js/main.7e09642b.js.map",
+    "787.177e23c2.chunk.js.map": "/Lekade/hw/static/js/787.177e23c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7e09642b.js"
+  ]
+}
